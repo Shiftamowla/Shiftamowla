@@ -4,12 +4,12 @@ Hello, I'm Khondakar Shifta Mowla! a passionate software developer with a knack 
 
 ---
 
-### 🌟 My Journey
+## 🌟 My Journey
 From exploring the basics of coding to diving deep into full-stack development, I love every step of this journey. I believe in continuous learning and am always on the lookout for new technologies and methodologies to enhance my skills.
 
 ---
 
-### 💡 Interests
+## 💡 Interests
 - **Web Development:** Crafting responsive and user-friendly web applications.
 - **Game Development:** Excited about creating immersive game experiences and exploring game mechanics.
 - **Open Source:** Contributing to projects that make a difference.
@@ -17,7 +17,7 @@ From exploring the basics of coding to diving deep into full-stack development, 
   
 ---
 
-### 🎯 Goals
+## 🎯 Goals
 - To build impactful software that solves real-world problems.
 - To create a game project that combines my love for coding and creativity.
 - To collaborate with like-minded individuals on exciting projects.
@@ -25,7 +25,7 @@ From exploring the basics of coding to diving deep into full-stack development, 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiftamowla&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
@@ -35,7 +35,7 @@ From exploring the basics of coding to diving deep into full-stack development, 
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="#" style="text-decoration: none;">
@@ -76,7 +76,7 @@ From exploring the basics of coding to diving deep into full-stack development, 
 
 ---
 
-### 🎉 Fun Fact
+## 🎉 Fun Fact
 I love to solve puzzles and play chess in my free time!
 
 
