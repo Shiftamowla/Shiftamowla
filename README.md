@@ -1,17 +1,22 @@
 ## 👋 About Me
 
 Hello, I'm Khondakar Shifta Mowla! a passionate software developer with a knack for turning ideas into reality. 🚀 
+
 ---
 
 ### 🌟 My Journey
 From exploring the basics of coding to diving deep into full-stack development, I love every step of this journey. I believe in continuous learning and am always on the lookout for new technologies and methodologies to enhance my skills.
+
 ---
+
 ### 💡 Interests
 - **Web Development:** Crafting responsive and user-friendly web applications.
 - **Game Development:** Excited about creating immersive game experiences and exploring game mechanics.
 - **Open Source:** Contributing to projects that make a difference.
 - **Tech Trends:** Keeping up with the latest in technology, especially in AI and machine learning.
+  
 ---
+
 ### 🎯 Goals
 - To build impactful software that solves real-world problems.
 - To create a game project that combines my love for coding and creativity.
@@ -31,20 +36,40 @@ From exploring the basics of coding to diving deep into full-stack development, 
 ---
 
 ### 🛠️ Technologies & Tools
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+<p align="center">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  </a>
+</p>
 
 ---
 
-
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/shifta-mowla-48b57b2b9) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ShiftaS9375?t=pJOML5I7HqlFCZdgbWXAjA&s=09)
+<p align="center">
+  <a href="https://bd.linkedin.com/in/shifta-mowla-48b57b2b9" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ShiftaS9375?t=pJOML5I7HqlFCZdgbWXAjA&s=09" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 
 
