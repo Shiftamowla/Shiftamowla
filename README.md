@@ -1,16 +1,17 @@
 ## 👋 About Me
 
 Hello, I'm Khondakar Shifta Mowla! a passionate software developer with a knack for turning ideas into reality. 🚀 
+---
 
 ### 🌟 My Journey
 From exploring the basics of coding to diving deep into full-stack development, I love every step of this journey. I believe in continuous learning and am always on the lookout for new technologies and methodologies to enhance my skills.
-
+---
 ### 💡 Interests
 - **Web Development:** Crafting responsive and user-friendly web applications.
 - **Game Development:** Excited about creating immersive game experiences and exploring game mechanics.
 - **Open Source:** Contributing to projects that make a difference.
 - **Tech Trends:** Keeping up with the latest in technology, especially in AI and machine learning.
-
+---
 ### 🎯 Goals
 - To build impactful software that solves real-world problems.
 - To create a game project that combines my love for coding and creativity.
@@ -21,16 +22,11 @@ From exploring the basics of coding to diving deep into full-stack development, 
 
 ### 📊 GitHub Stats
 
-<div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiftamowla&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiftamowla&theme=radical&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiftamowla&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shiftamowla&theme=radical)
 
 ---
 
@@ -44,8 +40,6 @@ From exploring the basics of coding to diving deep into full-stack development, 
 
 ---
 
-
----
 
 ## 📫 Let’s Connect
 
