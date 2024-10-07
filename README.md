@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hello, I'm Khondakar Shifta Mowla! a passionate software developer with a knack for turning ideas into reality. 🚀 
+Hello, I'm Khondakar Shifta Mowla! a passionate web developer with a knack for turning ideas into reality. 🚀 
 
 ---
 
