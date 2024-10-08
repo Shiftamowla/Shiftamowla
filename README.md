@@ -5,7 +5,7 @@ Hello, I'm Khondakar Shifta Mowla! a passionate web developer with a knack for t
 ---
 
 ## 🌟 My Journey
-From exploring the basics of coding to diving deep into full-stack development, I love every step of this journey. I believe in continuous learning and am always on the lookout for new technologies and methodologies to enhance my skills.
+From exploring the fundamentals of coding to diving deep into full-stack development, I love every step of this journey as a web developer. I believe in continuous learning and am always seeking out new technologies and methodologies to enhance my craft.
 
 ---
 
@@ -21,7 +21,7 @@ From exploring the basics of coding to diving deep into full-stack development, 
 - To build impactful software that solves real-world problems.
 - To create a game project that combines my love for coding and creativity.
 - To collaborate with like-minded individuals on exciting projects.
-- To share knowledge through blogging and mentorship.
+- To focus on improving communication, teamwork, and leadership skills.
 
 ---
 
