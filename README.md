@@ -32,7 +32,6 @@ From exploring the fundamentals of coding to diving deep into full-stack develop
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiftamowla&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -70,9 +69,6 @@ From exploring the fundamentals of coding to diving deep into full-stack develop
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
-
-
-
 
 ---
 
