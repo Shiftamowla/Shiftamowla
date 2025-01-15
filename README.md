@@ -75,7 +75,7 @@ It's like baking, You don't need to remember the recipe . You just need to get p
 ---
 
 ## 🎉 Fun Fact
-I love to solve puzzles and play chess in my free time!
+I love to solve puzzles and play chess in my free time! Also I am passionate about the art of baking.
 
 
            
