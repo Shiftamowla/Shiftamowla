@@ -2,7 +2,7 @@
 
 Hello, I'm Khondakar Shifta Mowla! a passionate web developer with a knack for turning ideas into reality.
 
-
+---
 ## 🌟 My Journey
 
 From exploring the fundamentals of coding to diving deep into full-stack development, I love every step of this journey as a web developer.It is a practical skill. I believe in continuous learning and am always seeking out new technologies and methodologies to enhance my craft. Coding is not like history.
