@@ -64,7 +64,7 @@ It's like baking, You don't need to remember the recipe . You just need to get p
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://bd.linkedin.com/in/shifta-mowla-48b57b2b9" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/khondakar-shifta-mowla-48b57b2b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ShiftaS9375?t=pJOML5I7HqlFCZdgbWXAjA&s=09" style="text-decoration: none;">
