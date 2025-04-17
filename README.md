@@ -1,6 +1,24 @@
-# My GitHub World 👋
+<h1 align="center">Hi 👋, I'm Khondakar Shifta Mowla!</h1>
+<h3 align="center">Programmer | Content Creator | Speed Learner</h3>
+<h4 align="center">A passionate web developer with a knack for turning ideas into reality</h4>
 
-Hello, I'm Khondakar Shifta Mowla! a passionate web developer with a knack for turning ideas into reality.
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Shiftamowla&color=red)
+
+Skills: PYTHON / JS / HTML / CSS
+
+</div>
+
+- 🔭 All of my projects are available at  [Github](https://github.com/Shiftamowla/)
+
+- 📝 I regularly write articles on [Twitter](https://x.com/ShiftaS9375?t=pJOML5I7HqlFCZdgbWXAjA&s=09))
+
+- 📫 How to reach me **shiftamowla@gmail.com**
+
+- 📄 All About Me:[Linkedin](https://www.linkedin.com/in/khondakar-shifta-mowla-48b57b2b9?)
+
+- 🌱 I’m currently learning Python
 
 ---
 ## 🌟 My Journey
@@ -32,7 +50,12 @@ It's like baking, You don't need to remember the recipe . You just need to get p
   <img src="https://github-readme-stats.vercel.app/api?username=Shiftamowla&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiftamowla&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
-
+<p align="center">
+  <a href="https://github.com/Shiftamowla">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiftamowla&theme=radical" alt="Shifta's Github Stats"/>
+  </a>
+</p>
+<br/>
 ---
 
 ## 🛠️ Technologies & Tools
@@ -56,6 +79,7 @@ It's like baking, You don't need to remember the recipe . You just need to get p
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   </a>
+
 </p>
 
 ---
