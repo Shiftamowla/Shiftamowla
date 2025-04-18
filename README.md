@@ -72,31 +72,20 @@ It's like baking, You don't need to remember the recipe . You just need to get p
 </p>
 <br/>
 
+---
+
 ### 🛠️ Technologies & Tools
 
-<p align="center">
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </a>
-
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
+</br>
 
 ---
+
+
+
 
 
 ### 📫 Let’s Connect
@@ -113,6 +102,5 @@ It's like baking, You don't need to remember the recipe . You just need to get p
 </a>
 </p>
 
----
 
            
