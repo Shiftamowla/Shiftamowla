@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Shiftamowla&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Shiftamowla&color=blue)
 
 Skills: PYTHON / JS / HTML / CSS
 
@@ -62,12 +62,12 @@ It's like baking, You don't need to remember the recipe . You just need to get p
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiftamowla&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiftamowla&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiftamowla&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiftamowla&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <p align="center">
   <a href="https://github.com/Shiftamowla">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiftamowla&theme=radical" alt="Shifta's Github Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiftamowla&theme=react&hide_border=true&bg_color=0D1117" alt="Shifta's Github Stats"/>
   </a>
 </p>
 <br/>
